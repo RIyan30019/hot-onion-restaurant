@@ -1,0 +1,164 @@
+[
+    {
+        "idFood": 1,
+        "foodThumb": "https://image.shutterstock.com/image-photo/pasta-ham-pepper-600w-626442953.jpg",
+        "foodName": "Portuguese fish stew (Caldeirada de peixe)",
+        "foodPrice": 6.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "breakfast"
+    },
+    {
+        "idFood": 2,
+        "foodThumb": "https://image.shutterstock.com/image-photo/grilled-beef-steak-potatoes-on-600w-629070965.jpg",
+        "foodName": "Hot portuguese custard tarts",
+        "foodPrice": 9.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "breakfast"
+    },
+    {
+        "idFood": 3,
+        "foodThumb": "https://image.shutterstock.com/image-photo/noodles-meat-vegetables-isolated-on-600w-1026270289.jpg",
+        "foodName": "Portuguese barbecued pork (Febras assadas)",
+        "foodPrice": 8.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "breakfast"
+    },
+    {
+        "idFood": 4,
+        "foodThumb": "https://image.shutterstock.com/image-photo/salad-stuffed-chicken-fillet-on-600w-649567624.jpg",
+        "foodName": "Portuguese prego with green piri-piri",
+        "foodPrice": 10.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "breakfast"
+    },
+    {
+        "idFood": 5,
+        "foodThumb": "https://image.shutterstock.com/image-photo/salad-served-on-white-plate-600w-143085208.jpg",
+        "foodName": "Grilled Portuguese sardines",
+        "foodPrice": 7.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "breakfast"
+    },
+    {
+        "idFood": 6,
+        "foodThumb": "https://image.shutterstock.com/image-photo/top-view-isolated-on-white-600w-126683687.jpg",
+        "foodName": "Spring onion and prawn empanadas",
+        "foodPrice": 9.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "breakfast"
+    },
+    {
+        "idFood": 7,
+        "foodThumb": "https://image.shutterstock.com/image-photo/english-breakfast-isolated-top-view-600w-114486589.jpg",
+        "foodName": "Japanese gohan rice",
+        "foodPrice": 8.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "lunch"
+    },
+    {
+        "idFood": 8,
+        "foodThumb": "https://image.shutterstock.com/image-photo/omelette-ham-mushrooms-isolated-top-600w-114486595.jpg",
+        "foodName": "Jerk chicken with rice & peas",
+        "foodPrice": 10.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "lunch"
+    },
+    {
+        "idFood": 9,
+        "foodThumb": "https://image.shutterstock.com/image-photo/fried-meat-potato-salad-greens-600w-1035581728.jpg",
+        "foodName": "Peach & Blueberry Grunt",
+        "foodPrice": 9.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "lunch"
+    },
+    {
+        "idFood": 10,
+        "foodThumb": "https://image.shutterstock.com/image-photo/asian-food-fried-thai-rice-600w-420525112.jpg",
+        "foodName": "Sticky Toffee Pudding Ultimate",
+        "foodPrice": 7.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "lunch"
+    },
+    {
+        "idFood": 11,
+        "foodThumb": "https://image.shutterstock.com/image-photo/grilled-steak-baked-potatoes-carrots-600w-561848101.jpg",
+        "foodName": "Squash linguine",
+        "foodPrice": 5.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "lunch"
+    },
+    {
+        "idFood": 12,
+        "foodThumb": "https://image.shutterstock.com/image-photo/grilled-beefsteak-vegetables-on-white-600w-630968501.jpg",
+        "foodName": "Mushroom & Chestnut Rotolo",
+        "foodPrice": 8.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "lunch"
+    },
+    {
+        "idFood": 13,
+        "foodThumb": "https://image.shutterstock.com/image-photo/grilled-chicken-fillet-potatoes-600w-600142967.jpg",
+        "foodName": "Red Peas Soup",
+        "foodPrice": 6.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "dinner"
+    },
+    {
+        "idFood": 14,
+        "foodThumb": "https://image.shutterstock.com/image-photo/grilled-salmon-asparagus-600w-1011776905.jpg",
+        "foodName": "Portuguese prego with green piri-piri",
+        "foodPrice": 8.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "dinner"
+    },
+    {
+        "idFood": 15,
+        "foodThumb": "https://image.shutterstock.com/image-photo/grilled-chicken-nuggets-vegetables-on-600w-1181280715.jpg",
+        "foodName": "Spring onion and prawn empanadas",
+        "foodPrice": 10.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "dinner"
+    },
+    {
+        "idFood": 16,
+        "foodThumb": "https://image.shutterstock.com/image-photo/pasta-ham-pepper-600w-626442953.jpg",
+        "foodName": "Mushroom & Chestnut Rotolo",
+        "foodPrice": 9.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "dinner"
+    },
+    {
+        "idFood": 17,
+        "foodThumb": "https://image.shutterstock.com/image-photo/grilled-steaks-boiled-potatoes-vegetable-600w-588292490.jpg",
+        "foodName": "Portuguese custard tarts",
+        "foodPrice": 7.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "dinner"
+    },
+    {
+        "idFood": 18,
+        "foodThumb": "https://image.shutterstock.com/image-photo/pizza-corn-broccoli-on-white-600w-1006441408.jpg",
+        "foodName": "Portuguese prego with green piri-piri",
+        "foodPrice": 10.99,
+        "foodDescription": "A spicy sausage pasta dish with a difference. Using the cooking water helps the sauce cling to the pasta and gives the dish more body. A silky smooth sauce, perfect pasta and one pan to wash! Stretch a pack of mince to make this hearty dish. It's perfect eaten straight from the bowl with a spoon and some crusty bread on a cold winter's night",
+        "about": "How we dream about our future",
+        "foodCategory": "dinner"
+    }
+]
